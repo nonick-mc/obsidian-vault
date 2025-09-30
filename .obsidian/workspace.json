@@ -11,10 +11,14 @@
             "id": "a6dc3746b71447a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "next.js/データのストリーミングを行う.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "データのストリーミングを行う"
             }
           }
         ]
@@ -173,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5b714218dbeb61",
+  "active": "a6dc3746b71447a2",
   "lastOpenFiles": [
-    "next.js/データのストリーミングを行う.md",
     "next.js/ClientComponentでデータのストリーミングを行う.md",
+    "next.js/データのストリーミングを行う.md",
     "assets/Pasted image 20250930105339.png",
     "assets",
     "next.js/use()を使用してClientComponentでデータのストリーミングを行う.md",
